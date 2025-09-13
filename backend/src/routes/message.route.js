@@ -10,11 +10,4 @@ router.get("/send",(req,res)=>{
 })
 
 
-
-
-
-
-
-
-
 export default router;
